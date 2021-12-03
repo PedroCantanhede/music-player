@@ -16,7 +16,8 @@
 
 ## Lofi - Beats
 
-Desafio proposto pelo Igor do curso Programador BR com o intuito de elaborar um player de música utilizando JavaScript. Através de uma das aulas do curso, resolvi me aprofundar mais e seguir o tutorial do canal CodingNepal que adicionou diversas funcionalidades ao player, como os modos: aleatório e repetir.  Por fim, coloquei um modo dark para os amantes do tema. Vídeo: https://www.youtube.com/watch?v=1-CvPn4AbT4&ab_channel=CodingNepal
+Desafio proposto pelo Igor do curso Programador BR com o intuito de elaborar um player de música utilizando JavaScript. Através de uma das aulas do curso, resolvi me aprofundar mais e seguir o tutorial do canal CodingNepal que adicionou diversas funcionalidades ao player, como os modos: aleatório e repetir.  Por fim, coloquei um modo dark para os amantes do tema.
+
 
 <div align="center" >
   <img alt="Lofi Layout" title="Lofi" src="github/layout.png"/>
@@ -42,6 +43,10 @@ Desafio proposto pelo Igor do curso Programador BR com o intuito de elaborar um 
 ### ☑️ Código:
 
 ![image](github/codigo.JPG)
+
+## 🔖 Layout
+
+Você pode visualizar o layout do projeto através [desse link](https://www.youtube.com/watch?v=1-CvPn4AbT4&ab_channel=CodingNepal). [CodingNepal](https://www.youtube.com/channel/UCk7xIEmd3MeyhIu2StLX5yA).
 
 ## 🌟 Curso Desenvolvimento Web Full Stack
 
