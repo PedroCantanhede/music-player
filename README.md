@@ -17,6 +17,7 @@
 ## Lofi - Beats
 
 Desafio proposto pelo Igor do curso Programador BR com o intuito de elaborar um player de música utilizando JavaScript. Através de uma das aulas do curso, resolvi me aprofundar mais e seguir o tutorial do canal CodingNepal que adicionou diversas funcionalidades ao player, como os modos: aleatório e repetir.  Por fim, coloquei um modo dark para os amantes do tema.
+[![Netlify Status](https://api.netlify.com/api/v1/badges/cc56cbe8-3f21-4b18-a911-37fa0842932f/deploy-status)](https://app.netlify.com/sites/lofi-player-music/deploys)
 
 
 <div align="center" >
