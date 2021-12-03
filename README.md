@@ -46,7 +46,7 @@ Desafio proposto pelo Igor do curso Programador BR com o intuito de elaborar um 
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [desse link](https://www.youtube.com/watch?v=1-CvPn4AbT4&ab_channel=CodingNepal). [CodingNepal](https://www.youtube.com/channel/UCk7xIEmd3MeyhIu2StLX5yA).
+Você pode visualizar o layout do projeto através [desse link](https://www.youtube.com/watch?v=1-CvPn4AbT4&ab_channel=CodingNepal). E acessar o canal aqui: [CodingNepal](https://www.youtube.com/channel/UCk7xIEmd3MeyhIu2StLX5yA).
 
 ## 🌟 Curso Desenvolvimento Web Full Stack
 
