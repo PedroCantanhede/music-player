@@ -21,7 +21,7 @@ window.addEventListener("load", ()=> {
     playingNow();
 });
 
-// Funçãp que realiza o carregamento da Música
+// Função que realiza o carregamento da Música
 function loadMusic(indexNumb) {
     musicName.innerText = allMusic[indexNumb - 1].name;
     musicArtist.innerText = allMusic[indexNumb - 1].artist;
@@ -140,7 +140,7 @@ repeatButton.addEventListener("click", ()=> {
             repeatButton.innerText = "repeat_one";
             repeatButton.setAttribute("title", "Song Looped");
             break;
-        case "repeat_one": // Caso o ícone seja reppeat_one, mudar para shuffle
+        case "repeat_one": // Caso o ícone seja repeat_one, mudar para shuffle
             repeatButton.innerText = "shuffle";
             repeatButton.setAttribute("title", "Playback Shuffle");
             break;
